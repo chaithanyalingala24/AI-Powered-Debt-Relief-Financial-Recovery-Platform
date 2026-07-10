@@ -1,4 +1,4 @@
-# 🎓 SkillWallet
+# 🎓AI Powered Debt Relief & Financial Recovery Platform project
 
 
 # 📌 Project Overview
