@@ -44,53 +44,12 @@ The platform enables users to register, securely log in, access a personalized d
 
 The project was developed in six major epics.
 
-## Epic 1 – Requirements Analysis
-
-- Requirement Gathering
-- Software Requirement Specification (SRS)
-- User Stories
-- Workflow Design
-- System Architecture
-
-## Epic 2 – User Interface Development
-
-- Wireframe Design
-- UI Components
-- React Development
-- Responsive Layout
-- Dashboard Design
-
-## Epic 3 – Backend Development
-
-- FastAPI Development
-- REST APIs
-- Database Integration
-- Authentication
-- Business Logic
-
-## Epic 4 – System Integration
-
-- Frontend Integration
-- Backend Integration
-- AI Integration
-- API Testing
-- End-to-End Connectivity
-
-## Epic 5 – Testing & Debugging
-
-- Functional Testing
-- Unit Testing
-- Bug Fixing
-- Performance Testing
-- Validation
-
-## Epic 6 – Deployment & GitHub Management
-
-- Repository Setup
-- Project Cleanup
-- Folder Organization
-- Deployment Configuration
-- Final Documentation
+### Epic 1: FinRelief AI Application Development & System Setup
+### Epic 2: AI Integration & Financial Processing Setup
+### Epic 3 Database Management & Financial Data Storage Setup
+### Epic 4: Frontend Integration & User Interface Development
+### Epic 5: Testing, Debugging & Performance Optimization
+### Epic 6 – Deployment & GitHub Management
 
 # Acknowledgements
 
