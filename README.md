@@ -56,7 +56,7 @@ The project was developed in six major epics.
 We sincerely thank our faculty members, project guide, and contributors for their valuable support and guidance throughout the development of the SkillWallet project.
 
 
-# Contact
+# Author
 
 Team lead: Chaithanya Lingala <br>
 Team Member: Bindu Manasa Gorle <br>
